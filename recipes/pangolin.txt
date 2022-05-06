@@ -1,6 +1,21 @@
+
+2 lbs beef round steak, chuck
+3 1/4 cups flour
+
+Directions:
+9. SPATZLE: Sift flour, salt, and nutmeg.
+12. Force through large-hole colander into a pot of rapidly boing salted water.
+
+2 lbs beef round steak, chuck
+2 cups beef stock or 2 cups beef broth
+3 1/4 cups flour
+1 teaspoon salt
+
+5. Add paprika, marjoram, caraway seed and tomato paste.
+7. Bring to a boil, reduce heat; cover and simmer 1 1/2 hours or until meat is tender.
+=======
 Emma's Buffalo Chicken Dip
 ----------------------------
-<<<<<<< HEAD
 Ingredients:
 1 lb sliced onion
 3 tablespoons instantized flour
@@ -21,7 +36,6 @@ Time: 2 hours
 2. Brown onions in oil in a large heavy flameproof casserole or saucepan.
 4. Sprinkle with flour.
 13. Boil for 6-8 minutes.
-=======
 Servings: 4-6
 
 1/2 teaspoon caraway seed
@@ -38,4 +52,4 @@ Ingredients:
 
 Directions:
 11. Add enough milk to make a heavy dough or batter.
->>>>>>> 38d6b05d0b06e881fe5bc100cce08f9d9d808603
+>>>>>>> f78f0d477b0c541e07152f8e57be7c5817e47635
